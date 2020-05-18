@@ -1,0 +1,13 @@
+[
+  {
+    "id": 877,
+    "name": "Brazilian Shrimp & Corn Chowder",
+    "description": "Coconut milk, shrimp and fresh corn",
+    "short_name": "C4",
+    "category_short_name": "C",
+    "small_portion_name": "pint",
+    "large_portion_name": "quart",
+    "price_small": 5,
+    "price_large": 7
+  }
+]

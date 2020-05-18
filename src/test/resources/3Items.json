@@ -1,0 +1,35 @@
+[
+  {
+    "id": 877,
+    "name": "Brazilian Shrimp & Corn Chowder",
+    "description": "Coconut milk, shrimp and fresh corn",
+    "short_name": "C4",
+    "category_short_name": "C",
+    "small_portion_name": "pint",
+    "large_portion_name": "quart",
+    "price_small": 5,
+    "price_large": 7
+  },
+  {
+    "id": 878,
+    "name": "Cuban Black Bean Soup",
+    "description": "With sherry",
+    "short_name": "SS2",
+    "category_short_name": "SS",
+    "small_portion_name": "pint",
+    "large_portion_name": "quart",
+    "price_small": 7,
+    "price_large": 9
+  },
+  {
+    "id": 879,
+    "name": "Gazpacho",
+    "description": "Cold tomato and strawberry Spanish soup, spices, sherry vinegar",
+    "short_name": "SS3",
+    "category_short_name": "SS",
+    "small_portion_name": "pint",
+    "large_portion_name": "quart",
+    "price_small": 7,
+    "price_large": 10
+  }
+]

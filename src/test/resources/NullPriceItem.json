@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1006,
+    "name": "Chocolate Truffle Cake",
+    "description": "",
+    "short_name": "DS1",
+    "category_short_name": "DS",
+    "small_portion_name": null,
+    "large_portion_name": "slice",
+    "price_small": null,
+    "price_large": 4
+  },
+  {
+    "id": 1007,
+    "name": "Cappuccino Apricot Cake",
+    "description": "",
+    "short_name": "DS2",
+    "category_short_name": "DS",
+    "small_portion_name": null,
+    "large_portion_name": "slice",
+    "price_small": 10,
+    "price_large": null
+  }
+]

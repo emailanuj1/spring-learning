@@ -1,0 +1,13 @@
+[
+  {
+    "id": 904,
+    "name": "Ahi Tuna Tartar",
+    "description": "Fresh diced Ahi tuna tartar, diced pineapple, cashews, spicy sesame-soy vinaigrette, guacamole, daikon sprouts",
+    "short_name": "C1",
+    "category_short_name": "C",
+    "small_portion_name": null,
+    "large_portion_name": null,
+    "price_small": null,
+    "price_large": 15
+  }
+]
